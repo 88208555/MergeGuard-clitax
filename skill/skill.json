@@ -1,0 +1,10 @@
+{
+  "description": "MergeGuard 是智能合并守卫——解决全球 IDE 二十年未解好的分支合并难题。三条铁律：合并不破坏（快照隔离+一键回滚）、AI 提议测试裁决（模型无裁判权）、小白可用（零 git 心智向导）。分层合并策略：L1 文本层兜底 + L2 结构层主力（AST/JSON/公式图节点级合并）+ L3 意图层 AI 增强。验证式合并：隔离区执行三道验证（结构效验+黄金基准+冒烟），全绿才落盘。规则衰减防护：内置规则编译器+写入时拦截+跨分支规则一致性。调用顺序为 capabilities、intake、branch-create、preflight、merge-verified。合并不崩、崩了能回、伪冲突自动识别、静默坏合必拦截。本技能面向真实交付：每一步都有输入、规则与失败面，禁止把加载中、超时或未知状态当成空成功。调用前必须先走 capabilities，再按 nextStep 前进；必填项未回答不得进入下一操作。日志只保存必要元数据，密钥不得写入公开页面。",
+  "displayName": "MergeGuard",
+  "endpoint": "https://cli.tax/Mm7GnPqR2v",
+  "method": "POST",
+  "name": "mergeguard",
+  "type": "Skill",
+  "version": "v7.0.19",
+  "schemaVersion": "mergeguard.skill.request/1.0"
+}
