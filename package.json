@@ -2,7 +2,7 @@
   "bin": {
     "cli-mergeguard": "./cli.mjs"
   },
-  "description": "MergeGuard skill installer for CLI.Tax: smart merge guard with snapshot branches and verified merge.",
+  "description": "MergeGuard skill installer for CLI.Tax: smart merge guard with snapshot branches, verified merge, and rule decay protection.",
   "files": [
     "cli.mjs",
     "installer.mjs",
@@ -13,11 +13,10 @@
   ],
   "license": "UNLICENSED",
   "name": "cli-mergeguard",
-  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/88208555/MergeGuard-clitax.git"
   },
   "type": "module",
-  "version": "7.0.25"
+  "version": "7.0.28"
 }
