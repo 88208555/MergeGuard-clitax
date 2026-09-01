@@ -5,6 +5,6 @@
   "method": "POST",
   "name": "mergeguard",
   "type": "Skill",
-  "version": "v7.0.32",
+  "version": "v7.0.33",
   "schemaVersion": "mergeguard.skill.request/1.0"
 }
