@@ -5,7 +5,7 @@ description: '智能合并守卫：快照分支+预演+验证式合并+规则衰
 
 # MergeGuard
 
-Package version: v7.0.33
+Package version: v7.0.34
 
 当前实现是“规则编译与守门协议”，不是可直接操作 git 的合并器。任何仓库写入、快照、合并或回滚都必须交给真实 local runner；远程纯运行时一律 fail-closed。
 
